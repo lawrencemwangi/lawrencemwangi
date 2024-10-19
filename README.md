@@ -7,6 +7,7 @@
 
 ### Let's Connect
 - 🌐 [Portfolio](https://lawnetdev.netlify.app)
+- 📧 [Email](mailto:mwangilawrence661@gmail.com)
 
 
 <!---
